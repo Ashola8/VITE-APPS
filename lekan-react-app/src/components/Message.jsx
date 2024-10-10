@@ -2,7 +2,7 @@ function Message(props){
 
     return(
         <>
-        <p>(props.content</p>
+        <p>(props.content)</p>
         </>
     )
 }
